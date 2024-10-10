@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4ac45fc-ead8-4459-b20f-6132ac88ebb9" name="Changes" comment="First draft">
-      <change afterPath="$PROJECT_DIR$/.idea/GitlabLint.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/rate-calculator.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="e4ac45fc-ead8-4459-b20f-6132ac88ebb9" name="Changes" comment="Increase decay &amp; add hover actions">
+      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,11 +70,37 @@
       <option name="project" value="LOCAL" />
       <updated>1728557766683</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="First draft">
+      <option name="closed" value="true" />
+      <created>1728558861656</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728558861656</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add editors settings">
+      <option name="closed" value="true" />
+      <created>1728558869432</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1728558869432</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Increase decay &amp; add hover actions">
+      <option name="closed" value="true" />
+      <created>1728558888811</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1728558888811</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First draft" />
-    <option name="LAST_COMMIT_MESSAGE" value="First draft" />
+    <MESSAGE value="Add editors settings" />
+    <MESSAGE value="Increase decay &amp; add hover actions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Increase decay &amp; add hover actions" />
   </component>
 </project>
