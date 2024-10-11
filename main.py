@@ -32,7 +32,7 @@ plt.xticks(ticks=np.arange(0, 21, 5), labels=["0", "1 week", "2 weeks", "3 weeks
 plt.grid(True)
 
 # Set y-axis range from 0 to 100
-plt.ylim(50, 100)
+plt.ylim(final_price, initial_price)
 
 # Add interactive cursor
 cursor = mplcursors.cursor(line, hover=True)
