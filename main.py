@@ -11,8 +11,8 @@ hours_worked = days * hours_per_day
 # Exponential decrease in pricing strategy from 100€/h to 50€/h over 20 days
 
 # Using an exponential decay formula
-initial_price = 100
-final_price = 50
+initial_price = 150
+final_price = 62.5
 decay_rate = 0.4  # Adjust this for faster or slower exponential decay
 
 # Calculate exponential price per hour
